@@ -1,1 +1,3 @@
 este doc es para probar la creacion de una segnda rama desde la interfaz grafica de git
+
+Segunda linea parra probar si los cambios realizados en la terminal se pueden visualizar el la intermafar graifica sin pasar por el remoto
